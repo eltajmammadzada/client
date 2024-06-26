@@ -1,4 +1,4 @@
-import React from 'react';
+
 import ClientItems from './ClientItems';
 
 const ClientArea = () => {
